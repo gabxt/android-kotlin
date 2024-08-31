@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sotet_zold">#116B37</color>
+    <color name="rikito_zold">#57F699</color>
+    <color name="kek">#304FFE</color>
+    <color name="vilagos_kek">#0091EA</color>
+    <color name="vilagos_lila">#D083F6</color>
+    <color name="lila">#8D41E4</color>
+    <color name="sarga">#FFD600</color>
+
+    <color name="window_background">#111111</color>
+    <color name="io_background">#222222</color>
+    <color name="green">#4ea043</color>
+    <color name="red">#d14f4f</color>
+    <color name="gray">#787676</color>
+
+</resources>
